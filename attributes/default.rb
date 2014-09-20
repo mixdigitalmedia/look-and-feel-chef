@@ -1,5 +1,5 @@
-# Author:: Spotlight Software Development, LLC
-# Cookbook Name:: look-and-feel-ssd
+# Author:: Mix Digital Media, LLC
+# Cookbook Name:: look-and-feel-chef
 # Attributes:: default
 #
 
